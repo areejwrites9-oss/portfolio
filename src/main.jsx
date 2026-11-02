@@ -5,6 +5,7 @@ import './styles/global.css'
 import './styles/sections.css'
 import './styles/chat.css'
 
+
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
