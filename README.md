@@ -2,11 +2,7 @@
 
 Vite + React. No backend needed. Both chatbots run in the browser.
 
-## Run
-```
-npm install
-npm run dev        # http://localhost:5173
-npm run build      # production build in /dist
+
 ```
 
 ## Where to edit things
@@ -20,9 +16,4 @@ npm run build      # production build in /dist
 | Restaurant chatbot brain (cart, reservation flow) | `src/lib/restaurantBot.js` |
 | Colours, fonts, spacing | `src/styles/global.css` (`:root` variables) |
 
-## To do before publishing
-1. Put your photo at `public/profile.jpg`.
-2. Replace the placeholder project links with your real repo / live URLs.
-3. Replace the demo restaurant details with the real ones.
-4. Optional: add a Formspree id in `profile.js` so the contact form sends without opening the email app.
-5. GitHub Pages: set `base` in `vite.config.js` to `'/<repo-name>/'`, build, and publish `dist/`.
+
