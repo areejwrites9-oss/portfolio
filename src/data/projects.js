@@ -18,7 +18,7 @@ export const projects = [
   },
   
   {
-    title: 'Hangman game Python',
+    title: 'Hangman Game Python',
     text: 'Internship project: a Hangman game in which user guess a letter and make a word',
     tag: 'CodeAlpha · Python',
     stack: ['Python'],
@@ -27,7 +27,7 @@ export const projects = [
   },
   
   {
-    title: 'File manager',
+    title: 'File Manager',
     tag: 'system to perform CRUD operation',
     text: 'A tool for organizing, storing, and retrieving files in one place. Users can upload, rename, categorize, search, and delete files,which saves time and keeps digital work tidy.',
     stack: ['Python', 'Oops'],
