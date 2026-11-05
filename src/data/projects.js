@@ -27,12 +27,12 @@ export const projects = [
   },
   
   {
-    title: 'Draped',
-    tag: 'Flask · Recommender',
-    text: 'A modest fashion outfit recommender that suggests looks from what the user already likes.',
-    stack: ['Flask', 'HTML/CSS'],
+    title: 'File manager',
+    tag: 'system to perform CRUD operation',
+    text: 'A tool for organizing, storing, and retrieving files in one place. Users can upload, rename, categorize, search, and delete files,which saves time and keeps digital work tidy.',
+    stack: ['Python', 'Oops'],
     accent: '#6e5a7e',
-    code: 'https://github.com/areejwrites9-oss',
+    code: 'https://github.com/areejwrites9-oss/file-handling-project',
   },
   {
     title: 'Midnight City',
